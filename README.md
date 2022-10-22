@@ -3,7 +3,9 @@ Logistic Regression  includes Binary target with 1 independent variable
 In this model we will take a dataset including the following fields
 User ID	Gender	Age	EstimatedSalary	Purchased
 ![image](https://user-images.githubusercontent.com/84851784/197347331-ab6154cd-0811-47d6-9b6a-40ca3bd05524.png)
-of which only age is taken for generating a model with binary data Purchased (0 for buying, 1 for not buying) - binary/categorical
+Eventhough many independent variables available in the above dataset...
+
+only Age is taken for generating a model with binary data Purchased (0 for buying, 1 for not buying) - binary/categorical
 
 Fetch the dataset .csv form
 assign x and y values
